@@ -1,15 +1,8 @@
-package com.company;
-//Slide 27
-
-//Given a Queue Q containing N elements. The task is to reverse the Queue.
-// Your task is to complete the function rev(), that reverses the N elements of the queue.
-// Reverse the Queue with Stack.
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-public class ExerciseB {
+public class ReverseQueues {
     
     //create a queue function using return function of a queue and a parameter with queue
     public static  Queue<String> revQueue(Queue<String> que) {
